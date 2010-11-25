@@ -1,0 +1,325 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+ACLOCAL	Makefile	/^ACLOCAL = aclocal -I \/Users\/dade\/streamine\/install\/share\/aclocal\/$/;"	m	language:Make
+ACLOCAL_M4	Makefile	/^ACLOCAL_M4 = $(top_srcdir)\/aclocal.m4$/;"	m	language:Make
+ALLOWED_CAPS_STRING	gstaudiofilter.c	/^#define ALLOWED_CAPS_STRING /;"	d	language:C	file:
+AMTAR	Makefile	/^AMTAR = ${SHELL} \/Users\/dade\/streamine\/workspace\/gst-template\/gst-plugin\/missing --run tar$/;"	m	language:Make
+AR	Makefile	/^AR = ar$/;"	m	language:Make
+ARG_0	gstaudiofilter.c	/^  ARG_0$/;"	e	language:C	enum:__anon2	file:
+AUTOCONF	Makefile	/^AUTOCONF = ${SHELL} \/Users\/dade\/streamine\/workspace\/gst-template\/gst-plugin\/missing --run autoconf$/;"	m	language:Make
+AUTOHEADER	Makefile	/^AUTOHEADER = ${SHELL} \/Users\/dade\/streamine\/workspace\/gst-template\/gst-plugin\/missing --run autoheader$/;"	m	language:Make
+AUTOMAKE	Makefile	/^AUTOMAKE = ${SHELL} \/Users\/dade\/streamine\/workspace\/gst-template\/gst-plugin\/missing --run automake-1.10$/;"	m	language:Make
+AWK	Makefile	/^AWK = awk$/;"	m	language:Make
+CC	Makefile	/^CC = gcc$/;"	m	language:Make
+CCDEPMODE	Makefile	/^CCDEPMODE = depmode=gcc3$/;"	m	language:Make
+CCLD	Makefile	/^CCLD = $(CC)$/;"	m	language:Make
+CFLAGS	Makefile	/^CFLAGS =  -arch i386  -Wall$/;"	m	language:Make
+COMPILE	Makefile	/^COMPILE = $(CC) $(DEFS) $(DEFAULT_INCLUDES) $(INCLUDES) $(AM_CPPFLAGS) \\$/;"	m	language:Make
+CONFIG_CLEAN_FILES	Makefile	/^CONFIG_CLEAN_FILES =$/;"	m	language:Make
+CONFIG_HEADER	Makefile	/^CONFIG_HEADER = $(top_builddir)\/config.h$/;"	m	language:Make
+CPP	Makefile	/^CPP = gcc -E$/;"	m	language:Make
+CPPFLAGS	Makefile	/^CPPFLAGS = $/;"	m	language:Make
+CTAGS	Makefile	/^CTAGS = ctags$/;"	m	language:Make
+CYGPATH_W	Makefile	/^CYGPATH_W = echo$/;"	m	language:Make
+DEBUG_INIT	gstaudiofilter.c	/^#define DEBUG_INIT(/;"	d	language:C	file:
+DEBUG_INIT	gsttransform.c	/^#define DEBUG_INIT(/;"	d	language:C	file:
+DEFAULT_INCLUDES	Makefile	/^DEFAULT_INCLUDES = -I. -I$(top_builddir)$/;"	m	language:Make
+DEFS	Makefile	/^DEFS = -DHAVE_CONFIG_H$/;"	m	language:Make
+DEPDIR	Makefile	/^DEPDIR = .deps$/;"	m	language:Make
+DISTFILES	Makefile	/^DISTFILES = $(DIST_COMMON) $(DIST_SOURCES) $(TEXINFOS) $(EXTRA_DIST)$/;"	m	language:Make
+DIST_COMMON	Makefile	/^DIST_COMMON = $(noinst_HEADERS) $(srcdir)\/Makefile.am \\$/;"	m	language:Make
+DIST_SOURCES	Makefile	/^DIST_SOURCES = $(libgstplugin_la_SOURCES)$/;"	m	language:Make
+DSYMUTIL	Makefile	/^DSYMUTIL = dsymutil$/;"	m	language:Make
+DUMPBIN	Makefile	/^DUMPBIN = $/;"	m	language:Make
+ECHO_C	Makefile	/^ECHO_C = \\c$/;"	m	language:Make
+ECHO_N	Makefile	/^ECHO_N = $/;"	m	language:Make
+ECHO_T	Makefile	/^ECHO_T = $/;"	m	language:Make
+EGREP	Makefile	/^EGREP = \/usr\/bin\/grep -E$/;"	m	language:Make
+ETAGS	Makefile	/^ETAGS = etags$/;"	m	language:Make
+EXEEXT	Makefile	/^EXEEXT = $/;"	m	language:Make
+FGREP	Makefile	/^FGREP = \/usr\/bin\/grep -F$/;"	m	language:Make
+GREP	Makefile	/^GREP = \/usr\/bin\/grep$/;"	m	language:Make
+GST_CAT_DEFAULT	gstaudiofilter.c	/^#define GST_CAT_DEFAULT /;"	d	language:C	file:
+GST_CAT_DEFAULT	gstosximagesrc.c	/^#define GST_CAT_DEFAULT /;"	d	language:C	file:
+GST_CAT_DEFAULT	gstplugin.c	/^#define GST_CAT_DEFAULT /;"	d	language:C	file:
+GST_CAT_DEFAULT	gsttransform.c	/^#define GST_CAT_DEFAULT /;"	d	language:C	file:
+GST_CFLAGS	Makefile	/^GST_CFLAGS = -D_REENTRANT -I\/Users\/dade\/streamine\/install\/include\/gstreamer-0.10 -I\/Users\/dade\/streamine\/install\/include\/glib-2.0 -I\/Users\/dade\/streamine\/install\/lib\/glib-2.0\/include   -Wall$/;"	m	language:Make
+GST_IS_OSXIMAGESRC	gstosximagesrc.h	/^#define GST_IS_OSXIMAGESRC(/;"	d	language:C++
+GST_IS_OSXIMAGESRC_CLASS	gstosximagesrc.h	/^#define GST_IS_OSXIMAGESRC_CLASS(/;"	d	language:C++
+GST_IS_PLUGIN_TEMPLATE	gstaudiofilter.c	/^#define GST_IS_PLUGIN_TEMPLATE(/;"	d	language:C	file:
+GST_IS_PLUGIN_TEMPLATE	gstplugin.h	/^#define GST_IS_PLUGIN_TEMPLATE(/;"	d	language:C++
+GST_IS_PLUGIN_TEMPLATE	gsttransform.h	/^#define GST_IS_PLUGIN_TEMPLATE(/;"	d	language:C++
+GST_IS_PLUGIN_TEMPLATE_CLASS	gstaudiofilter.c	/^#define GST_IS_PLUGIN_TEMPLATE_CLASS(/;"	d	language:C	file:
+GST_IS_PLUGIN_TEMPLATE_CLASS	gstplugin.h	/^#define GST_IS_PLUGIN_TEMPLATE_CLASS(/;"	d	language:C++
+GST_IS_PLUGIN_TEMPLATE_CLASS	gsttransform.h	/^#define GST_IS_PLUGIN_TEMPLATE_CLASS(/;"	d	language:C++
+GST_LIBS	Makefile	/^GST_LIBS = -L\/Users\/dade\/streamine\/install\/lib -lgstbase-0.10 -lgstcontroller-0.10 -lgstreamer-0.10 -lgobject-2.0 -lgmodule-2.0 -lgthread-2.0 -lglib-2.0 -lintl  $/;"	m	language:Make
+GST_OSXIMAGESRC	gstosximagesrc.h	/^#define GST_OSXIMAGESRC(/;"	d	language:C++
+GST_OSXIMAGESRC_CLASS	gstosximagesrc.h	/^#define GST_OSXIMAGESRC_CLASS(/;"	d	language:C++
+GST_PLUGIN_LDFLAGS	Makefile	/^GST_PLUGIN_LDFLAGS = -module -avoid-version -export-symbols-regex _*\\(gst_\\|Gst\\|GST_\\).*$/;"	m	language:Make
+GST_PLUGIN_TEMPLATE	gstaudiofilter.c	/^#define GST_PLUGIN_TEMPLATE(/;"	d	language:C	file:
+GST_PLUGIN_TEMPLATE	gstplugin.h	/^#define GST_PLUGIN_TEMPLATE(/;"	d	language:C++
+GST_PLUGIN_TEMPLATE	gsttransform.h	/^#define GST_PLUGIN_TEMPLATE(/;"	d	language:C++
+GST_PLUGIN_TEMPLATE_CLASS	gstaudiofilter.c	/^#define GST_PLUGIN_TEMPLATE_CLASS(/;"	d	language:C	file:
+GST_PLUGIN_TEMPLATE_CLASS	gstplugin.h	/^#define GST_PLUGIN_TEMPLATE_CLASS(/;"	d	language:C++
+GST_PLUGIN_TEMPLATE_CLASS	gsttransform.h	/^#define GST_PLUGIN_TEMPLATE_CLASS(/;"	d	language:C++
+GST_TYPE_OSXIMAGESRC	gstosximagesrc.h	/^#define GST_TYPE_OSXIMAGESRC /;"	d	language:C++
+GST_TYPE_PLUGIN_TEMPLATE	gstaudiofilter.c	/^#define GST_TYPE_PLUGIN_TEMPLATE /;"	d	language:C	file:
+GST_TYPE_PLUGIN_TEMPLATE	gstplugin.h	/^#define GST_TYPE_PLUGIN_TEMPLATE /;"	d	language:C++
+GST_TYPE_PLUGIN_TEMPLATE	gsttransform.h	/^#define GST_TYPE_PLUGIN_TEMPLATE /;"	d	language:C++
+GstPluginTemplate	gstaudiofilter.c	/^typedef struct _GstPluginTemplate GstPluginTemplate;$/;"	t	language:C	typeref:struct:_GstPluginTemplate	file:
+GstPluginTemplate	gstplugin.h	/^typedef struct _GstPluginTemplate      GstPluginTemplate;$/;"	t	language:C++	typeref:struct:_GstPluginTemplate
+GstPluginTemplate	gsttransform.h	/^typedef struct _GstPluginTemplate      GstPluginTemplate;$/;"	t	language:C++	typeref:struct:_GstPluginTemplate
+GstPluginTemplateClass	gstaudiofilter.c	/^typedef struct _GstPluginTemplateClass GstPluginTemplateClass;$/;"	t	language:C	typeref:struct:_GstPluginTemplateClass	file:
+GstPluginTemplateClass	gstplugin.h	/^typedef struct _GstPluginTemplateClass GstPluginTemplateClass;$/;"	t	language:C++	typeref:struct:_GstPluginTemplateClass
+GstPluginTemplateClass	gsttransform.h	/^typedef struct _GstPluginTemplateClass GstPluginTemplateClass;$/;"	t	language:C++	typeref:struct:_GstPluginTemplateClass
+Gstosximagesrc	gstosximagesrc.h	/^typedef struct _Gstosximagesrc      Gstosximagesrc;$/;"	t	language:C++	typeref:struct:_Gstosximagesrc
+GstosximagesrcClass	gstosximagesrc.h	/^typedef struct _GstosximagesrcClass GstosximagesrcClass;$/;"	t	language:C++	typeref:struct:_GstosximagesrcClass
+HAVE_PKGCONFIG	Makefile	/^HAVE_PKGCONFIG =  $/;"	m	language:Make
+HEADERS	Makefile	/^HEADERS = $(noinst_HEADERS)$/;"	m	language:Make
+INSTALL	Makefile	/^INSTALL = \/Users\/dade\/.local\/bin\/install-check$/;"	m	language:Make
+INSTALL_DATA	Makefile	/^INSTALL_DATA = ${INSTALL} -m 644$/;"	m	language:Make
+INSTALL_HEADER	Makefile	/^INSTALL_HEADER = $(INSTALL_DATA)$/;"	m	language:Make
+INSTALL_PROGRAM	Makefile	/^INSTALL_PROGRAM = ${INSTALL}$/;"	m	language:Make
+INSTALL_SCRIPT	Makefile	/^INSTALL_SCRIPT = ${INSTALL}$/;"	m	language:Make
+INSTALL_STRIP_PROGRAM	Makefile	/^INSTALL_STRIP_PROGRAM = $(install_sh) -c -s$/;"	m	language:Make
+LAST_SIGNAL	gstaudiofilter.c	/^  LAST_SIGNAL$/;"	e	language:C	enum:__anon1	file:
+LAST_SIGNAL	gstosximagesrc.c	/^  LAST_SIGNAL$/;"	e	language:C	enum:__anon3	file:
+LAST_SIGNAL	gstplugin.c	/^  LAST_SIGNAL$/;"	e	language:C	enum:__anon5	file:
+LAST_SIGNAL	gsttransform.c	/^  LAST_SIGNAL$/;"	e	language:C	enum:__anon7	file:
+LD	Makefile	/^LD = \/usr\/libexec\/gcc\/i686-apple-darwin10\/4.2.1\/ld$/;"	m	language:Make
+LDFLAGS	Makefile	/^LDFLAGS = -L\/Users\/dade\/streamine\/install\/lib $/;"	m	language:Make
+LIBOBJS	Makefile	/^LIBOBJS = $/;"	m	language:Make
+LIBS	Makefile	/^LIBS = $/;"	m	language:Make
+LIBTOOL	Makefile	/^LIBTOOL = $(SHELL) $(top_builddir)\/libtool$/;"	m	language:Make
+LINK	Makefile	/^LINK = $(LIBTOOL) --tag=CC $(AM_LIBTOOLFLAGS) $(LIBTOOLFLAGS) \\$/;"	m	language:Make
+LIPO	Makefile	/^LIPO = lipo$/;"	m	language:Make
+LN_S	Makefile	/^LN_S = ln -s$/;"	m	language:Make
+LTCOMPILE	Makefile	/^LTCOMPILE = $(LIBTOOL) --tag=CC $(AM_LIBTOOLFLAGS) $(LIBTOOLFLAGS) \\$/;"	m	language:Make
+LTLIBOBJS	Makefile	/^LTLIBOBJS = $/;"	m	language:Make
+LTLIBRARIES	Makefile	/^LTLIBRARIES = $(plugin_LTLIBRARIES)$/;"	m	language:Make
+MAINT	Makefile	/^MAINT = #$/;"	m	language:Make
+MAKEINFO	Makefile	/^MAKEINFO = ${SHELL} \/Users\/dade\/streamine\/workspace\/gst-template\/gst-plugin\/missing --run makeinfo$/;"	m	language:Make
+MKDIR_P	Makefile	/^MKDIR_P = ..\/.\/install-sh -c -d$/;"	m	language:Make
+NM	Makefile	/^NM = \/usr\/bin\/nm$/;"	m	language:Make
+NMEDIT	Makefile	/^NMEDIT = nmedit$/;"	m	language:Make
+NORMAL_INSTALL	Makefile	/^NORMAL_INSTALL = :$/;"	m	language:Make
+NORMAL_UNINSTALL	Makefile	/^NORMAL_UNINSTALL = :$/;"	m	language:Make
+OBJDUMP	Makefile	/^OBJDUMP = false$/;"	m	language:Make
+OBJEXT	Makefile	/^OBJEXT = o$/;"	m	language:Make
+OTOOL	Makefile	/^OTOOL = otool$/;"	m	language:Make
+OTOOL64	Makefile	/^OTOOL64 = :$/;"	m	language:Make
+PACKAGE	Makefile	/^PACKAGE = my-plugin-package$/;"	m	language:Make
+PACKAGE	gstosximagesrc.c	/^#define PACKAGE /;"	d	language:C	file:
+PACKAGE	gstplugin.c	/^#define PACKAGE /;"	d	language:C	file:
+PACKAGE_BUGREPORT	Makefile	/^PACKAGE_BUGREPORT = $/;"	m	language:Make
+PACKAGE_NAME	Makefile	/^PACKAGE_NAME = my-plugin-package$/;"	m	language:Make
+PACKAGE_STRING	Makefile	/^PACKAGE_STRING = my-plugin-package 0.10.0$/;"	m	language:Make
+PACKAGE_TARNAME	Makefile	/^PACKAGE_TARNAME = my-plugin-package$/;"	m	language:Make
+PACKAGE_VERSION	Makefile	/^PACKAGE_VERSION = 0.10.0$/;"	m	language:Make
+PATH_SEPARATOR	Makefile	/^PATH_SEPARATOR = :$/;"	m	language:Make
+PKG_CONFIG	Makefile	/^PKG_CONFIG = \/Users\/dade\/streamine\/install\/bin\/pkg-config$/;"	m	language:Make
+POST_INSTALL	Makefile	/^POST_INSTALL = :$/;"	m	language:Make
+POST_UNINSTALL	Makefile	/^POST_UNINSTALL = :$/;"	m	language:Make
+PRE_INSTALL	Makefile	/^PRE_INSTALL = :$/;"	m	language:Make
+PRE_UNINSTALL	Makefile	/^PRE_UNINSTALL = :$/;"	m	language:Make
+PROP_0	gstosximagesrc.c	/^  PROP_0,$/;"	e	language:C	enum:__anon4	file:
+PROP_0	gstplugin.c	/^  PROP_0,$/;"	e	language:C	enum:__anon6	file:
+PROP_0	gsttransform.c	/^  PROP_0,$/;"	e	language:C	enum:__anon8	file:
+PROP_SILENT	gstosximagesrc.c	/^  PROP_SILENT$/;"	e	language:C	enum:__anon4	file:
+PROP_SILENT	gstplugin.c	/^  PROP_SILENT$/;"	e	language:C	enum:__anon6	file:
+PROP_SILENT	gsttransform.c	/^  PROP_SILENT,$/;"	e	language:C	enum:__anon8	file:
+RANLIB	Makefile	/^RANLIB = ranlib$/;"	m	language:Make
+SED	Makefile	/^SED = \/usr\/bin\/sed$/;"	m	language:Make
+SET_MAKE	Makefile	/^SET_MAKE = $/;"	m	language:Make
+SHELL	Makefile	/^SHELL = \/bin\/sh$/;"	m	language:Make
+SOURCES	Makefile	/^SOURCES = $(libgstplugin_la_SOURCES)$/;"	m	language:Make
+STRIP	Makefile	/^STRIP = strip$/;"	m	language:Make
+VERSION	Makefile	/^VERSION = 0.10.0$/;"	m	language:Make
+_GstPluginTemplate	gstaudiofilter.c	/^struct _GstPluginTemplate$/;"	s	language:C	file:
+_GstPluginTemplate	gstplugin.h	/^struct _GstPluginTemplate$/;"	s	language:C++
+_GstPluginTemplate	gsttransform.h	/^struct _GstPluginTemplate {$/;"	s	language:C++
+_GstPluginTemplate::audiofilter	gstaudiofilter.c	/^  GstAudioFilter audiofilter;$/;"	m	language:C	struct:_GstPluginTemplate	file:
+_GstPluginTemplate::element	gstplugin.h	/^  GstElement element;$/;"	m	language:C++	struct:_GstPluginTemplate
+_GstPluginTemplate::element	gsttransform.h	/^  GstBaseTransform element;$/;"	m	language:C++	struct:_GstPluginTemplate
+_GstPluginTemplate::silent	gstplugin.h	/^  gboolean silent;$/;"	m	language:C++	struct:_GstPluginTemplate
+_GstPluginTemplate::silent	gsttransform.h	/^  gboolean silent;$/;"	m	language:C++	struct:_GstPluginTemplate
+_GstPluginTemplate::sinkpad	gstplugin.h	/^  GstPad *sinkpad, *srcpad;$/;"	m	language:C++	struct:_GstPluginTemplate
+_GstPluginTemplate::srcpad	gstplugin.h	/^  GstPad *sinkpad, *srcpad;$/;"	m	language:C++	struct:_GstPluginTemplate
+_GstPluginTemplateClass	gstaudiofilter.c	/^struct _GstPluginTemplateClass$/;"	s	language:C	file:
+_GstPluginTemplateClass	gstplugin.h	/^struct _GstPluginTemplateClass $/;"	s	language:C++
+_GstPluginTemplateClass	gsttransform.h	/^struct _GstPluginTemplateClass {$/;"	s	language:C++
+_GstPluginTemplateClass::parent_class	gstaudiofilter.c	/^  GstAudioFilterClass parent_class;$/;"	m	language:C	struct:_GstPluginTemplateClass	file:
+_GstPluginTemplateClass::parent_class	gstplugin.h	/^  GstElementClass parent_class;$/;"	m	language:C++	struct:_GstPluginTemplateClass
+_GstPluginTemplateClass::parent_class	gsttransform.h	/^  GstBaseTransformClass parent_class;$/;"	m	language:C++	struct:_GstPluginTemplateClass
+_Gstosximagesrc	gstosximagesrc.h	/^struct _Gstosximagesrc$/;"	s	language:C++
+_Gstosximagesrc::element	gstosximagesrc.h	/^  GstElement element;$/;"	m	language:C++	struct:_Gstosximagesrc
+_Gstosximagesrc::silent	gstosximagesrc.h	/^  gboolean silent;$/;"	m	language:C++	struct:_Gstosximagesrc
+_Gstosximagesrc::sinkpad	gstosximagesrc.h	/^  GstPad *sinkpad, *srcpad;$/;"	m	language:C++	struct:_Gstosximagesrc
+_Gstosximagesrc::srcpad	gstosximagesrc.h	/^  GstPad *sinkpad, *srcpad;$/;"	m	language:C++	struct:_Gstosximagesrc
+_GstosximagesrcClass	gstosximagesrc.h	/^struct _GstosximagesrcClass $/;"	s	language:C++
+_GstosximagesrcClass::parent_class	gstosximagesrc.h	/^  GstBaseSrcClass parent_class;$/;"	m	language:C++	struct:_GstosximagesrcClass
+__GST_OSXIMAGESRC_H__	gstosximagesrc.h	/^#define __GST_OSXIMAGESRC_H__$/;"	d	language:C++
+__GST_PLUGIN_TEMPLATE_H__	gstplugin.h	/^#define __GST_PLUGIN_TEMPLATE_H__$/;"	d	language:C++
+__GST_PLUGIN_TEMPLATE_H__	gsttransform.h	/^#define __GST_PLUGIN_TEMPLATE_H__$/;"	d	language:C++
+abs_builddir	Makefile	/^abs_builddir = \/Users\/dade\/streamine\/workspace\/gst-template\/gst-plugin\/src$/;"	m	language:Make
+abs_srcdir	Makefile	/^abs_srcdir = \/Users\/dade\/streamine\/workspace\/gst-template\/gst-plugin\/src$/;"	m	language:Make
+abs_top_builddir	Makefile	/^abs_top_builddir = \/Users\/dade\/streamine\/workspace\/gst-template\/gst-plugin$/;"	m	language:Make
+abs_top_srcdir	Makefile	/^abs_top_srcdir = \/Users\/dade\/streamine\/workspace\/gst-template\/gst-plugin$/;"	m	language:Make
+ac_ct_CC	Makefile	/^ac_ct_CC = gcc$/;"	m	language:Make
+ac_ct_DUMPBIN	Makefile	/^ac_ct_DUMPBIN = $/;"	m	language:Make
+am__DEPENDENCIES_1	Makefile	/^am__DEPENDENCIES_1 =$/;"	m	language:Make
+am__aclocal_m4_deps	Makefile	/^am__aclocal_m4_deps = $(top_srcdir)\/configure.ac$/;"	m	language:Make
+am__cd	Makefile	/^am__cd = CDPATH="$${ZSH_VERSION+.}$(PATH_SEPARATOR)" && cd$/;"	m	language:Make
+am__configure_deps	Makefile	/^am__configure_deps = $(am__aclocal_m4_deps) $(CONFIGURE_DEPENDENCIES) \\$/;"	m	language:Make
+am__depfiles_maybe	Makefile	/^am__depfiles_maybe = depfiles$/;"	m	language:Make
+am__include	Makefile	/^am__include = include$/;"	m	language:Make
+am__installdirs	Makefile	/^am__installdirs = "$(DESTDIR)$(plugindir)"$/;"	m	language:Make
+am__leading_dot	Makefile	/^am__leading_dot = .$/;"	m	language:Make
+am__quote	Makefile	/^am__quote = $/;"	m	language:Make
+am__strip_dir	Makefile	/^am__strip_dir = `echo $$p | sed -e 's|^.*\/||'`;$/;"	m	language:Make
+am__tar	Makefile	/^am__tar = ${AMTAR} chof - "$$tardir"$/;"	m	language:Make
+am__untar	Makefile	/^am__untar = ${AMTAR} xf -$/;"	m	language:Make
+am__vpath_adj	Makefile	/^am__vpath_adj = case $$p in \\$/;"	m	language:Make
+am__vpath_adj_setup	Makefile	/^am__vpath_adj_setup = srcdirstrip=`echo "$(srcdir)" | sed 's|.|.|g'`;$/;"	m	language:Make
+am_libgstplugin_la_OBJECTS	Makefile	/^am_libgstplugin_la_OBJECTS = libgstplugin_la-gstosximagesrc.lo$/;"	m	language:Make
+audiofilter	gstaudiofilter.c	/^  GstAudioFilter audiofilter;$/;"	m	language:C	struct:_GstPluginTemplate	file:
+bindir	Makefile	/^bindir = ${exec_prefix}\/bin$/;"	m	language:Make
+build	Makefile	/^build = i386-apple-darwin10.4.0$/;"	m	language:Make
+build_alias	Makefile	/^build_alias = $/;"	m	language:Make
+build_cpu	Makefile	/^build_cpu = i386$/;"	m	language:Make
+build_os	Makefile	/^build_os = darwin10.4.0$/;"	m	language:Make
+build_triplet	Makefile	/^build_triplet = i386-apple-darwin10.4.0$/;"	m	language:Make
+build_vendor	Makefile	/^build_vendor = apple$/;"	m	language:Make
+builddir	Makefile	/^builddir = .$/;"	m	language:Make
+datadir	Makefile	/^datadir = ${datarootdir}$/;"	m	language:Make
+datarootdir	Makefile	/^datarootdir = ${prefix}\/share$/;"	m	language:Make
+depcomp	Makefile	/^depcomp = $(SHELL) $(top_srcdir)\/depcomp$/;"	m	language:Make
+docdir	Makefile	/^docdir = ${datarootdir}\/doc\/${PACKAGE_TARNAME}$/;"	m	language:Make
+dvidir	Makefile	/^dvidir = ${docdir}$/;"	m	language:Make
+element	gstosximagesrc.h	/^  GstElement element;$/;"	m	language:C++	struct:_Gstosximagesrc
+element	gstplugin.h	/^  GstElement element;$/;"	m	language:C++	struct:_GstPluginTemplate
+element	gsttransform.h	/^  GstBaseTransform element;$/;"	m	language:C++	struct:_GstPluginTemplate
+exec_prefix	Makefile	/^exec_prefix = ${prefix}$/;"	m	language:Make
+gst_osximage_src_create	gstosximagesrc.c	/^gst_osximage_src_create (GstBaseSrc * bs, GstBuffer ** buf)$/;"	f	language:C	file:
+gst_osximagesrc_base_init	gstosximagesrc.c	/^gst_osximagesrc_base_init (gpointer gclass)$/;"	f	language:C	file:
+gst_osximagesrc_class_init	gstosximagesrc.c	/^gst_osximagesrc_class_init (GstosximagesrcClass * klass)$/;"	f	language:C	file:
+gst_osximagesrc_debug	gstosximagesrc.c	/^GST_DEBUG_CATEGORY_STATIC (gst_osximagesrc_debug);$/;"	v	language:C
+gst_osximagesrc_get_property	gstosximagesrc.c	/^gst_osximagesrc_get_property (GObject * object, guint prop_id,$/;"	f	language:C	file:
+gst_osximagesrc_get_property	gstosximagesrc.c	/^static void gst_osximagesrc_get_property (GObject * object, guint prop_id,$/;"	p	language:C	file:
+gst_osximagesrc_get_type	gstosximagesrc.h	/^GType gst_osximagesrc_get_type (void);$/;"	p	language:C++
+gst_osximagesrc_init	gstosximagesrc.c	/^gst_osximagesrc_init (Gstosximagesrc * filter,$/;"	f	language:C	file:
+gst_osximagesrc_set_caps	gstosximagesrc.c	/^static gboolean gst_osximagesrc_set_caps (GstPad * pad, GstCaps * caps);$/;"	p	language:C	file:
+gst_osximagesrc_set_property	gstosximagesrc.c	/^gst_osximagesrc_set_property (GObject * object, guint prop_id,$/;"	f	language:C	file:
+gst_osximagesrc_set_property	gstosximagesrc.c	/^static void gst_osximagesrc_set_property (GObject * object, guint prop_id,$/;"	p	language:C	file:
+gst_plugin_template_base_init	gstaudiofilter.c	/^gst_plugin_template_base_init (gpointer klass)$/;"	f	language:C	file:
+gst_plugin_template_base_init	gstplugin.c	/^gst_plugin_template_base_init (gpointer gclass)$/;"	f	language:C	file:
+gst_plugin_template_base_init	gsttransform.c	/^gst_plugin_template_base_init (gpointer klass)$/;"	f	language:C	file:
+gst_plugin_template_chain	gstplugin.c	/^gst_plugin_template_chain (GstPad * pad, GstBuffer * buf)$/;"	f	language:C	file:
+gst_plugin_template_chain	gstplugin.c	/^static GstFlowReturn gst_plugin_template_chain (GstPad * pad, GstBuffer * buf);$/;"	p	language:C	file:
+gst_plugin_template_class_init	gstaudiofilter.c	/^gst_plugin_template_class_init (GstPluginTemplateClass * klass)$/;"	f	language:C	file:
+gst_plugin_template_class_init	gstplugin.c	/^gst_plugin_template_class_init (GstPluginTemplateClass * klass)$/;"	f	language:C	file:
+gst_plugin_template_class_init	gsttransform.c	/^gst_plugin_template_class_init (GstPluginTemplateClass * klass)$/;"	f	language:C	file:
+gst_plugin_template_debug	gstaudiofilter.c	/^GST_DEBUG_CATEGORY_STATIC (gst_plugin_template_debug);$/;"	v	language:C
+gst_plugin_template_debug	gstplugin.c	/^GST_DEBUG_CATEGORY_STATIC (gst_plugin_template_debug);$/;"	v	language:C
+gst_plugin_template_debug	gsttransform.c	/^GST_DEBUG_CATEGORY_STATIC (gst_plugin_template_debug);$/;"	v	language:C
+gst_plugin_template_filter	gstaudiofilter.c	/^gst_plugin_template_filter (GstBaseTransform * base_transform,$/;"	f	language:C	file:
+gst_plugin_template_filter	gstaudiofilter.c	/^static GstFlowReturn gst_plugin_template_filter (GstBaseTransform * bt,$/;"	p	language:C	file:
+gst_plugin_template_filter_inplace	gstaudiofilter.c	/^gst_plugin_template_filter_inplace (GstBaseTransform * base_transform,$/;"	f	language:C	file:
+gst_plugin_template_filter_inplace	gstaudiofilter.c	/^gst_plugin_template_filter_inplace (GstBaseTransform * base_transform,$/;"	p	language:C	file:
+gst_plugin_template_get_property	gstaudiofilter.c	/^gst_plugin_template_get_property (GObject * object, guint prop_id,$/;"	f	language:C	file:
+gst_plugin_template_get_property	gstaudiofilter.c	/^static void gst_plugin_template_get_property (GObject * object,$/;"	p	language:C	file:
+gst_plugin_template_get_property	gstplugin.c	/^gst_plugin_template_get_property (GObject * object, guint prop_id,$/;"	f	language:C	file:
+gst_plugin_template_get_property	gstplugin.c	/^static void gst_plugin_template_get_property (GObject * object, guint prop_id,$/;"	p	language:C	file:
+gst_plugin_template_get_property	gsttransform.c	/^gst_plugin_template_get_property (GObject * object, guint prop_id,$/;"	f	language:C	file:
+gst_plugin_template_get_property	gsttransform.c	/^static void gst_plugin_template_get_property (GObject * object, guint prop_id,$/;"	p	language:C	file:
+gst_plugin_template_get_type	gstplugin.h	/^GType gst_plugin_template_get_type (void);$/;"	p	language:C++
+gst_plugin_template_get_type	gsttransform.h	/^GType gst_plugin_template_get_type (void);$/;"	p	language:C++
+gst_plugin_template_init	gstaudiofilter.c	/^gst_plugin_template_init (GstPluginTemplate * plugin_template,$/;"	f	language:C	file:
+gst_plugin_template_init	gstplugin.c	/^gst_plugin_template_init (GstPluginTemplate * filter,$/;"	f	language:C	file:
+gst_plugin_template_init	gsttransform.c	/^gst_plugin_template_init (GstPluginTemplate *filter, GstPluginTemplateClass * klass)$/;"	f	language:C	file:
+gst_plugin_template_set_caps	gstplugin.c	/^gst_plugin_template_set_caps (GstPad * pad, GstCaps * caps)$/;"	f	language:C	file:
+gst_plugin_template_set_caps	gstplugin.c	/^static gboolean gst_plugin_template_set_caps (GstPad * pad, GstCaps * caps);$/;"	p	language:C	file:
+gst_plugin_template_set_property	gstaudiofilter.c	/^gst_plugin_template_set_property (GObject * object, guint prop_id,$/;"	f	language:C	file:
+gst_plugin_template_set_property	gstaudiofilter.c	/^static void gst_plugin_template_set_property (GObject * object,$/;"	p	language:C	file:
+gst_plugin_template_set_property	gstplugin.c	/^gst_plugin_template_set_property (GObject * object, guint prop_id,$/;"	f	language:C	file:
+gst_plugin_template_set_property	gstplugin.c	/^static void gst_plugin_template_set_property (GObject * object, guint prop_id,$/;"	p	language:C	file:
+gst_plugin_template_set_property	gsttransform.c	/^gst_plugin_template_set_property (GObject * object, guint prop_id,$/;"	f	language:C	file:
+gst_plugin_template_set_property	gsttransform.c	/^static void gst_plugin_template_set_property (GObject * object, guint prop_id,$/;"	p	language:C	file:
+gst_plugin_template_setup	gstaudiofilter.c	/^gst_plugin_template_setup (GstAudioFilter * filter,$/;"	f	language:C	file:
+gst_plugin_template_setup	gstaudiofilter.c	/^static gboolean gst_plugin_template_setup (GstAudioFilter * filter,$/;"	p	language:C	file:
+gst_plugin_template_transform_ip	gsttransform.c	/^gst_plugin_template_transform_ip (GstBaseTransform * base, GstBuffer * outbuf)$/;"	f	language:C	file:
+gst_plugin_template_transform_ip	gsttransform.c	/^static GstFlowReturn gst_plugin_template_transform_ip (GstBaseTransform * base,$/;"	p	language:C	file:
+host	Makefile	/^host = i386-apple-darwin10.4.0$/;"	m	language:Make
+host_alias	Makefile	/^host_alias = $/;"	m	language:Make
+host_cpu	Makefile	/^host_cpu = i386$/;"	m	language:Make
+host_os	Makefile	/^host_os = darwin10.4.0$/;"	m	language:Make
+host_triplet	Makefile	/^host_triplet = i386-apple-darwin10.4.0$/;"	m	language:Make
+host_vendor	Makefile	/^host_vendor = apple$/;"	m	language:Make
+htmldir	Makefile	/^htmldir = ${docdir}$/;"	m	language:Make
+includedir	Makefile	/^includedir = ${prefix}\/include$/;"	m	language:Make
+infodir	Makefile	/^infodir = ${datarootdir}\/info$/;"	m	language:Make
+install_sh	Makefile	/^install_sh = $(SHELL) \/Users\/dade\/streamine\/workspace\/gst-template\/gst-plugin\/install-sh$/;"	m	language:Make
+install_sh_DATA	Makefile	/^install_sh_DATA = $(install_sh) -c -m 644$/;"	m	language:Make
+install_sh_PROGRAM	Makefile	/^install_sh_PROGRAM = $(install_sh) -c$/;"	m	language:Make
+install_sh_SCRIPT	Makefile	/^install_sh_SCRIPT = $(install_sh) -c$/;"	m	language:Make
+libdir	Makefile	/^libdir = ${exec_prefix}\/lib$/;"	m	language:Make
+libexecdir	Makefile	/^libexecdir = ${exec_prefix}\/libexec$/;"	m	language:Make
+libgstplugin_la_CFLAGS	Makefile	/^libgstplugin_la_CFLAGS = $(GST_CFLAGS)$/;"	m	language:Make
+libgstplugin_la_DEPENDENCIES	Makefile	/^libgstplugin_la_DEPENDENCIES = $(am__DEPENDENCIES_1)$/;"	m	language:Make
+libgstplugin_la_LDFLAGS	Makefile	/^libgstplugin_la_LDFLAGS = $(GST_PLUGIN_LDFLAGS)$/;"	m	language:Make
+libgstplugin_la_LIBADD	Makefile	/^libgstplugin_la_LIBADD = $(GST_LIBS)$/;"	m	language:Make
+libgstplugin_la_LIBTOOLFLAGS	Makefile	/^libgstplugin_la_LIBTOOLFLAGS = --tag=disable-static$/;"	m	language:Make
+libgstplugin_la_LINK	Makefile	/^libgstplugin_la_LINK = $(LIBTOOL) --tag=CC \\$/;"	m	language:Make
+libgstplugin_la_OBJECTS	Makefile	/^libgstplugin_la_OBJECTS = $(am_libgstplugin_la_OBJECTS)$/;"	m	language:Make
+libgstplugin_la_SOURCES	Makefile	/^libgstplugin_la_SOURCES = gstosximagesrc.c gstosximagesrc.h$/;"	m	language:Make
+localedir	Makefile	/^localedir = ${datarootdir}\/locale$/;"	m	language:Make
+localstatedir	Makefile	/^localstatedir = ${prefix}\/var$/;"	m	language:Make
+lt_ECHO	Makefile	/^lt_ECHO = \/bin\/echo$/;"	m	language:Make
+mandir	Makefile	/^mandir = ${datarootdir}\/man$/;"	m	language:Make
+mkdir_p	Makefile	/^mkdir_p = $(top_builddir)\/.\/install-sh -c -d$/;"	m	language:Make
+mkinstalldirs	Makefile	/^mkinstalldirs = $(install_sh) -d$/;"	m	language:Make
+noinst_HEADERS	Makefile	/^noinst_HEADERS = gstplugin.h$/;"	m	language:Make
+oldincludedir	Makefile	/^oldincludedir = \/usr\/include$/;"	m	language:Make
+osximagesrc_init	gstosximagesrc.c	/^osximagesrc_init (GstPlugin * osximagesrc)$/;"	f	language:C	file:
+parent_class	gstaudiofilter.c	/^  GstAudioFilterClass parent_class;$/;"	m	language:C	struct:_GstPluginTemplateClass	file:
+parent_class	gstosximagesrc.h	/^  GstBaseSrcClass parent_class;$/;"	m	language:C++	struct:_GstosximagesrcClass
+parent_class	gstplugin.h	/^  GstElementClass parent_class;$/;"	m	language:C++	struct:_GstPluginTemplateClass
+parent_class	gsttransform.h	/^  GstBaseTransformClass parent_class;$/;"	m	language:C++	struct:_GstPluginTemplateClass
+pdfdir	Makefile	/^pdfdir = ${docdir}$/;"	m	language:Make
+pkgdatadir	Makefile	/^pkgdatadir = $(datadir)\/my-plugin-package$/;"	m	language:Make
+pkgincludedir	Makefile	/^pkgincludedir = $(includedir)\/my-plugin-package$/;"	m	language:Make
+pkglibdir	Makefile	/^pkglibdir = $(libdir)\/my-plugin-package$/;"	m	language:Make
+pluginLTLIBRARIES_INSTALL	Makefile	/^pluginLTLIBRARIES_INSTALL = $(INSTALL)$/;"	m	language:Make
+plugin_LTLIBRARIES	Makefile	/^plugin_LTLIBRARIES = libgstplugin.la$/;"	m	language:Make
+plugin_init	gstaudiofilter.c	/^plugin_init (GstPlugin * plugin)$/;"	f	language:C	file:
+plugin_init	gstplugin.c	/^plugin_init (GstPlugin * plugin)$/;"	f	language:C	file:
+plugin_init	gsttransform.c	/^plugin_init (GstPlugin * plugin)$/;"	f	language:C	file:
+plugindir	Makefile	/^plugindir = $(libdir)\/gstreamer-0.10$/;"	m	language:Make
+prefix	Makefile	/^prefix = \/usr\/local$/;"	m	language:Make
+program_transform_name	Makefile	/^program_transform_name = s,x,x,$/;"	m	language:Make
+psdir	Makefile	/^psdir = ${docdir}$/;"	m	language:Make
+sbindir	Makefile	/^sbindir = ${exec_prefix}\/sbin$/;"	m	language:Make
+sharedstatedir	Makefile	/^sharedstatedir = ${prefix}\/com$/;"	m	language:Make
+silent	gstosximagesrc.h	/^  gboolean silent;$/;"	m	language:C++	struct:_Gstosximagesrc
+silent	gstplugin.h	/^  gboolean silent;$/;"	m	language:C++	struct:_GstPluginTemplate
+silent	gsttransform.h	/^  gboolean silent;$/;"	m	language:C++	struct:_GstPluginTemplate
+sink_factory	gstplugin.c	/^static GstStaticPadTemplate sink_factory = GST_STATIC_PAD_TEMPLATE ("sink",$/;"	v	language:C	file:
+sink_template	gsttransform.c	/^static GstStaticPadTemplate sink_template =$/;"	v	language:C	file:
+sinkpad	gstosximagesrc.h	/^  GstPad *sinkpad, *srcpad;$/;"	m	language:C++	struct:_Gstosximagesrc
+sinkpad	gstplugin.h	/^  GstPad *sinkpad, *srcpad;$/;"	m	language:C++	struct:_GstPluginTemplate
+src_factory	gstosximagesrc.c	/^static GstStaticPadTemplate src_factory = GST_STATIC_PAD_TEMPLATE ("src",$/;"	v	language:C	file:
+src_factory	gstplugin.c	/^static GstStaticPadTemplate src_factory = GST_STATIC_PAD_TEMPLATE ("src",$/;"	v	language:C	file:
+src_template	gsttransform.c	/^static GstStaticPadTemplate src_template =$/;"	v	language:C	file:
+srcdir	Makefile	/^srcdir = .$/;"	m	language:Make
+srcpad	gstosximagesrc.h	/^  GstPad *sinkpad, *srcpad;$/;"	m	language:C++	struct:_Gstosximagesrc
+srcpad	gstplugin.h	/^  GstPad *sinkpad, *srcpad;$/;"	m	language:C++	struct:_GstPluginTemplate
+subdir	Makefile	/^subdir = src$/;"	m	language:Make
+sysconfdir	Makefile	/^sysconfdir = ${prefix}\/etc$/;"	m	language:Make
+target_alias	Makefile	/^target_alias = $/;"	m	language:Make
+top_builddir	Makefile	/^top_builddir = ..$/;"	m	language:Make
+top_srcdir	Makefile	/^top_srcdir = ..$/;"	m	language:Make
+transform	Makefile	/^transform = $(program_transform_name)$/;"	m	language:Make
